@@ -2,6 +2,6 @@
 
 status do projeto: em desenvolvimento
 
-'''
+```
 node app.js
-'''
+```
